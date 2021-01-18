@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 500px;
+    background: url ('https://images.unsplash.com/photo-1610946253870-bde3f52cf54c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80') bottom no-repeat;
+    background-size: cover;
+}
+
+h1 {
+
+color: ;
+}
